@@ -1,0 +1,23 @@
+{
+  "name": "build-tools-template",
+  "version": "1.0.0",
+  "authors": [
+    "Yamagata Developers Society",
+    "Elliott Hindman",
+    "ZURB <foundation@zurb.com>"
+  ],
+  "description": "starter template with simple build tools",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

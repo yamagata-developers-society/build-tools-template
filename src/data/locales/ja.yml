@@ -1,0 +1,32 @@
+meta:
+  pages:
+    default:
+      title: ''
+      keywords: ''
+      description: ''
+      url: ''
+      site: ''
+      facebook:
+        image:
+          src: ''
+          height: '627'
+          width: '1200'
+      twitter:
+        image:
+          src: ''
+    questions:
+      title: ''
+    people:
+      title: ''
+    statistics:
+      title: ''
+    new_graduate:
+      title: ''
+    mid_career:
+      title: ''
+    privacy_agreement:
+      title: ''
+    form_intern:
+      title: ''
+    form_career:
+      title: ''
